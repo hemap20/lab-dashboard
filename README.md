@@ -36,6 +36,7 @@ Frontend: Dash + Plotly
   • Custom layouts using dash-bootstrap-components
   • Visuals using scatter, sunburst, polar, and line charts
 
+```
 ## Preview
 
 ![Dashboard Screenshot](./screenshot.png)
